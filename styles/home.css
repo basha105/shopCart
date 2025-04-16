@@ -1,0 +1,19 @@
+ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    border: 3px solid navy;
+    border-radius: 10px;
+    list-style-type: none;
+    width: 200px;
+    padding: 4px;
+}
+
+li {
+    border: 2px solid blue;
+    border-radius: 5px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
